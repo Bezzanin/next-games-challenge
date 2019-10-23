@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/next-games-challenge/precache-manifest.bb3813480413cd1eb4c05c07a842ea74.js"
+  "/next-games-challenge/precache-manifest.1f80353aba7ccaa4668a0af17715b4a5.js"
 );
 
 self.addEventListener('message', (event) => {
