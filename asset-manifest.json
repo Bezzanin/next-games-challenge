@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/next-games-challenge/static/css/main.70aa70b5.chunk.css",
-    "main.js": "/next-games-challenge/static/js/main.62002136.chunk.js",
-    "main.js.map": "/next-games-challenge/static/js/main.62002136.chunk.js.map",
+    "main.js": "/next-games-challenge/static/js/main.7fb76090.chunk.js",
+    "main.js.map": "/next-games-challenge/static/js/main.7fb76090.chunk.js.map",
     "runtime-main.js": "/next-games-challenge/static/js/runtime-main.06e13db3.js",
     "runtime-main.js.map": "/next-games-challenge/static/js/runtime-main.06e13db3.js.map",
     "static/js/2.105f7133.chunk.js": "/next-games-challenge/static/js/2.105f7133.chunk.js",
     "static/js/2.105f7133.chunk.js.map": "/next-games-challenge/static/js/2.105f7133.chunk.js.map",
     "index.html": "/next-games-challenge/index.html",
-    "precache-manifest.04e5525fc889c27c5cbf578709c379e0.js": "/next-games-challenge/precache-manifest.04e5525fc889c27c5cbf578709c379e0.js",
+    "precache-manifest.d465e61ce89b8057d5ef15bcd87e448c.js": "/next-games-challenge/precache-manifest.d465e61ce89b8057d5ef15bcd87e448c.js",
     "service-worker.js": "/next-games-challenge/service-worker.js",
     "static/css/main.70aa70b5.chunk.css.map": "/next-games-challenge/static/css/main.70aa70b5.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.06e13db3.js",
     "static/js/2.105f7133.chunk.js",
     "static/css/main.70aa70b5.chunk.css",
-    "static/js/main.62002136.chunk.js"
+    "static/js/main.7fb76090.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40f640ae43811db081951587a9478639",
+    "revision": "3003daa62b091ea5ee869ca77e3feaff",
     "url": "/next-games-challenge/index.html"
   },
   {
-    "revision": "cfb3c5302c9cce826f6a",
+    "revision": "4de676b8f26108a9000d",
     "url": "/next-games-challenge/static/css/main.70aa70b5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/next-games-challenge/static/js/2.105f7133.chunk.js"
   },
   {
-    "revision": "cfb3c5302c9cce826f6a",
-    "url": "/next-games-challenge/static/js/main.62002136.chunk.js"
+    "revision": "4de676b8f26108a9000d",
+    "url": "/next-games-challenge/static/js/main.7fb76090.chunk.js"
   },
   {
     "revision": "0c68e3165f0ba7cf9c07",
