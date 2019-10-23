@@ -9,12 +9,19 @@ import Navigation from "./components/Navigation";
 class App extends Component {
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <>
           <Navigation />
           <Switch>
-            <Route path="/" component={DatadogPage} exact />
-            <Route path="/azure" component={AzurePage} />
+            <Route
+              path={process.env.PUBLIC_URL + "/"}
+              component={DatadogPage}
+              exact
+            />
+            <Route
+              path={process.env.PUBLIC_URL + "/azure"}
+              component={AzurePage}
+            />
             <Route component={ErrorPage} />
           </Switch>
         </>
